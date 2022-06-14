@@ -1,0 +1,39 @@
+towns={
+    "Смоленск":[
+        "/Smolensk/smolenska.jpeg",
+        "/Smolensk/Smolensk2.jpeg"
+    ],
+    "Италия":[
+        "/Italy/italy.jpeg",
+        "/Italy/italy2.jpeg"
+    ],
+
+    "Вьетнам":[
+        "/Vietnam/vietnam.jpeg",
+        "/Vietnam/Vietnam2.jpeg"
+    ],
+    "Клоун":[
+        "/Clown/Clown1.jpeg",
+        "/Clown/Clown2.jpg"
+    ],
+    "Юрий":[
+        "/Gagarin/Gagarin01.jpeg",
+        "/Gagarin/Gagarin02.jpeg"
+    ],
+   "Валентина":[
+        "/Valentina/Valentina.jpeg",
+        "/Valentina/Valentina2.jpeg"
+    ],
+   "Владимир":[
+        "/Vladimir/Vladimir.jpeg",
+        "/Vladimir/Vladimir2.jpeg"
+    ],
+   "Пётр 1":[
+        "/Peter1/Peter001.jpeg",
+        "/Peter1/Peter0022.jpeg"
+    ],
+   "Екатерина 2":[
+        "/Ekaterina2/Ekaterina02.jpeg",
+        "/Ekaterina2/Ekaterina022.jpeg"
+    ],
+}
